@@ -43,12 +43,36 @@ const FirstDay: React.FC = () => {
 
           <AccordionItemPanel>
             <p>
-              Unique DC motor brake USB & UMB series brakes are absolutely
-              fail-safe in nature, and finds wide range of applications where
-              emergency stop is required. When power fails or brake remains in
-              engaged condition for longer periods of time, these brakes are
-              ideal for the applications. Unique DC fail safe brake functions on
-              an electromagnetic principle.
+              The Spring Loaded Fail Safe Brake is engineered for applications
+              that demand maximum safety and reliability, offering a secure and
+              efficient braking solution in situations where failure is not an
+              option. This brake system is designed to automatically engage when
+              power is lost or in emergency conditions, ensuring the immediate
+              and safe halt of machinery. Built to deliver consistent
+              performance in industrial environments, it is particularly suited
+              for cranes, hoists, wind turbines, and heavy-duty machinery. At
+              the heart of this brake system is the spring-loaded mechanism,
+              which applies the braking force when de-energized, offering a
+              fail-safe operation. The robust construction ensures long-lasting
+              durability and performance, even under extreme conditions. With
+              minimal maintenance requirements, the Spring Loaded Fail Safe
+              Brake provides cost-effective, reliable safety in critical
+              applications.<br></br> Key features of the Spring Loaded Fail Safe Brake
+              include: <br></br>1. Fail-Safe Design: Automatically engages when power is
+              lost or in emergencies, providing reliable safety in critical
+              situations. <br></br>2. Spring-Loaded Mechanism: Utilizes mechanical springs
+              to apply braking force, ensuring operation even without electrical
+              power. <br></br>3. High Torque Capability: Offers powerful braking force to
+              halt heavy machinery quickly and efficiently.<br></br>4. Durable
+              Construction: Built from high-quality materials to endure harsh
+              industrial conditions, ensuring long-lasting performance.<br></br>5. Low
+              Maintenance: Designed for minimal maintenance, reducing
+              operational costs and ensuring reliable, continuous operation.<br></br>6.
+              Compact and Versatile: The compact design allows for easy
+              installation in various applications without sacrificing
+              performance.<br></br>7. Wide Range of Applications: Ideal for industries such
+              as material handling, energy, automotive, and manufacturing, where
+              safety is paramount.
             </p>
 
             {/* <div className="row h-100 align-items-center">
@@ -131,7 +155,7 @@ const FirstDay: React.FC = () => {
             <AccordionItemButton>
               <div className="abcd">
                 <Image
-                  src="\images\p20.jpg"
+                  src="\images\p20.png"
                   title="Steven Lucy"
                   alt="Author"
                   width={150}
@@ -140,7 +164,7 @@ const FirstDay: React.FC = () => {
               </div>
 
               <div className="schedule-info">
-                <h3>3. LINER</h3>
+                <h3>3. ALUMINIUM DISC LINER</h3>
 
                 <ul>
                   {/* <li>Type - UFC (Normally Off)</li> */}
@@ -155,28 +179,13 @@ const FirstDay: React.FC = () => {
 
           <AccordionItemPanel>
             <p>
-              Our Flange Mounted Clutches are designed for precise and efficient
-              torque transfer in a variety of industrial applications. These
-              clutches offer seamless integration with existing machinery,
-              mounted directly onto flanges for easy installation. Their compact
-              yet robust design makes them an excellent choice for systems where
-              space optimization and reliable performance are critical.
-              Engineered to handle demanding operations, these clutches provide
-              smooth engagement and disengagement of power transmission,
-              ensuring minimal wear and tear on your machinery. The Flange
-              Mounted Clutches are ideal for environments requiring high torque
-              capacity and quick response, helping enhance both productivity and
-              equipment longevity. <br></br>Key features of our Flange Mounted
-              Clutches include: <br></br>High Torque Transmission: Delivers
-              consistent and powerful torque transfer for efficient operation.
-              <br></br> Compact Design: Flange-mounted for space-saving
-              installation and easy integration into various systems. <br></br>{" "}
-              Durable Construction: Manufactured with high-quality materials for
-              long-lasting performance in industrial conditions. <br></br>{" "}
-              Smooth Engagement: Provides reliable power transmission with
-              minimal noise and vibration, promoting machine longevity.{" "}
-              <br></br> Easy Maintenance: Low maintenance design for reduced
-              downtime and longer operational periods.
+              Aluminium Disc Liners are lightweight, durable components designed
+              to protect and enhance the performance of braking systems. Known
+              for their excellent heat dissipation and corrosion resistance,
+              they ensure smoother braking and extended service life for
+              industrial applications. These liners are ideal for
+              high-performance environments, offering low maintenance and
+              superior reliability across a range of heavy-duty equipment.
             </p>
 
             <div className="row h-100 align-items-center">
@@ -208,7 +217,7 @@ const FirstDay: React.FC = () => {
                 <h3>4. CLUTH AND BRAKE COMBINATION</h3>
 
                 <ul>
-                  <li>Type - UCB (Normally Off)</li>
+                  <li>Type - UCB </li>
                   <li>
                     <i className="icofont-wall-clock"></i> Torque : 15 - 500 Nm
                   </li>
@@ -276,9 +285,9 @@ const FirstDay: React.FC = () => {
                 <h3>5. BRAKE MOTORS</h3>
 
                 <ul>
-                  <li>Type - UBM (Normally Off)</li>
+                  <li>Type - UBM </li>
                   <li>
-                    <i className="icofont-wall-clock"></i> Speed : 10 - 1440 RPM
+                    <i className="icofont-wall-clock"></i> Speed : 1440 RPM
                   </li>
                   <li>Motor Voltages : 415 Vac</li>
                   <li>Power : 0.25 hp - 20 hp </li>
@@ -345,7 +354,7 @@ const FirstDay: React.FC = () => {
                 <h3>6. TRANSFORMERS AND RECTIFIERS</h3>
 
                 <ul>
-                  <li>Type - UFC (Normally Off)</li>
+                  <li>Type - UFC </li>
                   <li>
                     <i className="icofont-wall-clock"></i> Torque : 15 - 500 Nm
                   </li>
@@ -427,6 +436,69 @@ const FirstDay: React.FC = () => {
               durability, our Electrohydraulic Thruster Brakes are engineered to
               withstand harsh industrial environments while maintaining minimal
               maintenance needs and long service life.
+            </p>
+          </AccordionItemPanel>
+        </AccordionItem>
+
+        <AccordionItem>
+          <AccordionItemHeading>
+            <AccordionItemButton>
+              <div className="abcd">
+                <Image
+                  src="\images\p011.png"
+                  title=""
+                  alt=""
+                  width={150}
+                  height={150}
+                />
+              </div>
+
+              <div className="schedule-info">
+                <h3>8. NMRV GEAR BOX</h3>
+
+                <ul>
+                  <li>Power : 0.5KW</li>
+                  <li>
+                    <i className="icofont-wall-clock"></i> Gear Type : Worm
+                  </li>
+                </ul>
+              </div>
+            </AccordionItemButton>
+          </AccordionItemHeading>
+
+          <AccordionItemPanel>
+            <p>
+              Our NMRV Gear Box is an efficient and reliable power transmission
+              solution, designed for a wide range of industrial applications.
+              Known for its compact and versatile design, the NMRV gear box
+              offers exceptional performance in environments where space is
+              limited and high torque is required. This gear box is ideal for
+              use in conveyors, automation systems, material handling equipment,
+              and various other industrial setups requiring smooth and
+              consistent torque transmission. The NMRV Gear Box features a worm
+              gear design, ensuring smooth operation with minimal noise and
+              vibration. It is built to handle torque ratings ranging from 15 Nm
+              to 500 Nm, making it suitable for both light and heavy-duty
+              applications. With a UFC (Normally Off) configuration, the gear
+              box is designed for maximum operational efficiency, providing
+              reliable performance when power is needed.<br></br> Key features
+              of our NMRV Gear Box include: Torque Range: Capable of handling
+              torque loads from 15 Nm to 500 Nm, offering versatility for
+              various applications.<br></br> UFC Design: The Normally Off
+              configuration ensures energy savings by activating only when
+              needed, reducing power consumption. <br></br>High Efficiency:
+              Delivers smooth, efficient power transmission with low energy
+              loss, ensuring minimal maintenance and extended service life.{" "}
+              <br></br>Durable Construction: Made from high-quality materials,
+              the gear box is built to withstand harsh industrial environments
+              and prolonged use.<br></br> Compact Size: Space-saving design
+              allows for easy installation in tight or confined areas, making it
+              ideal for retrofitting existing systems.
+              <br></br>Low Noise & Vibration: The worm gear mechanism ensures
+              quieter operation compared to traditional gear systems, providing
+              a more comfortable work environment. <br></br>Versatile
+              Application: Suitable for conveyors, hoists, material handling
+              systems, and automation machinery across various industries.
             </p>
           </AccordionItemPanel>
         </AccordionItem>

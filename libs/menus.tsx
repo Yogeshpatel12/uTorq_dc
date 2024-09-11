@@ -21,7 +21,7 @@ export const menus = [
         link: "/products",
       },
       {
-        label: "FLANGE MOUNTED CLUTHES",
+        label: "ALUMINIUM DISC LINER",
         link: "/products",
       },
       {
