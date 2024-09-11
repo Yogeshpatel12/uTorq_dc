@@ -40,6 +40,10 @@ export const menus = [
         label: "ELECTROHYDRAULIC THRUSTER BRAKE",
         link: "/products",
       },
+      {
+        label: "NMRV GEAR BOX",
+        link: "/products",
+      },
     ],
   },
   {
